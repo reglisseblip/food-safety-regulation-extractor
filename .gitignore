@@ -1,0 +1,32 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+*.key
+
+# Python virtual env
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Sorties locales (régénérables)
+matrix/matrix.test.*
+*.sqlite
+
+# IDE
+.idea/
+.vscode/
+
+# OS / shell
+.DS_Store
+Thumbs.db
+*.stackdump
+*.sqlite-shm
+*.sqlite-wal

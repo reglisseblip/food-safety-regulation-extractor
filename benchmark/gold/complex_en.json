@@ -1,0 +1,450 @@
+[
+  {
+    "substance": "Blorbic acid",
+    "category": "Glimmer cakes",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Frosted noodles",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Spiced kelp drinks",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.9,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Dried moonfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Frosted noodles",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Spiced kelp drinks",
+    "rule_type": "RANGE",
+    "value_min": 60,
+    "value_max": 160,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Dried moonfruit",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Whipped voidcream",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Spiced kelp drinks",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Dried moonfruit",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Quexol",
+    "category": "Cured zalmon",
+    "rule_type": "RANGE",
+    "value_min": 70,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Whipped voidcream",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Pickled starfruit",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Dried moonfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 370,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Whipped voidcream",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Pickled starfruit",
+    "rule_type": "RANGE",
+    "value_min": 80,
+    "value_max": 180,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Toasted nimbus grains",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "Glivorate",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 290,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Glivorate",
+    "category": "Whipped voidcream",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 430,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Glivorate",
+    "category": "Pickled starfruit",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Glivorate",
+    "category": "Toasted nimbus grains",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "Glivorate",
+    "category": "Candied dusk pears",
+    "rule_type": "RANGE",
+    "value_min": 90,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Pyrenthol",
+    "category": "Whipped voidcream",
+    "rule_type": "RANGE",
+    "value_min": 110,
+    "value_max": 210,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Pyrenthol",
+    "category": "Pickled starfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.9,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Pyrenthol",
+    "category": "Toasted nimbus grains",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "Pyrenthol",
+    "category": "Candied dusk pears",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 270,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Pyrenthol",
+    "category": "Smoked riverbloom",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 410,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Naxidine",
+    "category": "Pickled starfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Naxidine",
+    "category": "Toasted nimbus grains",
+    "rule_type": "RANGE",
+    "value_min": 120,
+    "value_max": 220,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Naxidine",
+    "category": "Candied dusk pears",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Naxidine",
+    "category": "Smoked riverbloom",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Naxidine",
+    "category": "Glimmer cakes",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Vorbamate",
+    "category": "Toasted nimbus grains",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "Vorbamate",
+    "category": "Candied dusk pears",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Vorbamate",
+    "category": "Smoked riverbloom",
+    "rule_type": "RANGE",
+    "value_min": 130,
+    "value_max": 230,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Vorbamate",
+    "category": "Glimmer cakes",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Vorbamate",
+    "category": "Frosted noodles",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "Cindralin",
+    "category": "Candied dusk pears",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Cindralin",
+    "category": "Smoked riverbloom",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Cindralin",
+    "category": "Glimmer cakes",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.7,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Cindralin",
+    "category": "Frosted noodles",
+    "rule_type": "RANGE",
+    "value_min": 50,
+    "value_max": 150,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Cindralin",
+    "category": "Spiced kelp drinks",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Mophedone",
+    "category": "Smoked riverbloom",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Mophedone",
+    "category": "Glimmer cakes",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Mophedone",
+    "category": "Frosted noodles",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "Mophedone",
+    "category": "Spiced kelp drinks",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Mophedone",
+    "category": "Dried moonfruit",
+    "rule_type": "RANGE",
+    "value_min": 60,
+    "value_max": 160,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Frosted noodles intended for medical use",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 95,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Frosted noodles intended for medical use",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 55,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Spiced kelp drinks intended for medical use",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.55,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Cured zalmon intended for medical use",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 185,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Glivorate",
+    "category": "Cured zalmon intended for medical use",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 145,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Pyrenthol",
+    "category": "Whipped voidcream intended for medical use",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 105,
+    "unit": "mg/kg"
+  }
+]

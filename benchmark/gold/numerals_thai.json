@@ -1,0 +1,450 @@
+[
+  {
+    "substance": "กรดบลอร์บิก",
+    "category": "เค้กกลิมเมอร์",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "กรดบลอร์บิก",
+    "category": "บะหมี่เคลือบ",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "กรดบลอร์บิก",
+    "category": "เครื่องดื่มสาหร่าย",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.9,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "กรดบลอร์บิก",
+    "category": "ผลจันทร์อบแห้ง",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "กรดบลอร์บิก",
+    "category": "ปลาแซลมอนหมัก",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เซนทานิล",
+    "category": "บะหมี่เคลือบ",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เซนทานิล",
+    "category": "เครื่องดื่มสาหร่าย",
+    "rule_type": "RANGE",
+    "value_min": 60,
+    "value_max": 160,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เซนทานิล",
+    "category": "ผลจันทร์อบแห้ง",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "เซนทานิล",
+    "category": "ปลาแซลมอนหมัก",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เซนทานิล",
+    "category": "วอยด์ครีม",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เควกซอล",
+    "category": "เครื่องดื่มสาหร่าย",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "เควกซอล",
+    "category": "ผลจันทร์อบแห้ง",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "เควกซอล",
+    "category": "ปลาแซลมอนหมัก",
+    "rule_type": "RANGE",
+    "value_min": 70,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เควกซอล",
+    "category": "วอยด์ครีม",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เควกซอล",
+    "category": "มะเฟืองดอง",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "ฟราเวสแทน",
+    "category": "ผลจันทร์อบแห้ง",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "ฟราเวสแทน",
+    "category": "ปลาแซลมอนหมัก",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 370,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ฟราเวสแทน",
+    "category": "วอยด์ครีม",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ฟราเวสแทน",
+    "category": "มะเฟืองดอง",
+    "rule_type": "RANGE",
+    "value_min": 80,
+    "value_max": 180,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ฟราเวสแทน",
+    "category": "ธัญพืชนิมบัส",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "กลิโวเรต",
+    "category": "ปลาแซลมอนหมัก",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 290,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "กลิโวเรต",
+    "category": "วอยด์ครีม",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 430,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "กลิโวเรต",
+    "category": "มะเฟืองดอง",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "กลิโวเรต",
+    "category": "ธัญพืชนิมบัส",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "กลิโวเรต",
+    "category": "แพร์สนธยา",
+    "rule_type": "RANGE",
+    "value_min": 90,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ไพเรนทอล",
+    "category": "วอยด์ครีม",
+    "rule_type": "RANGE",
+    "value_min": 110,
+    "value_max": 210,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ไพเรนทอล",
+    "category": "มะเฟืองดอง",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.9,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "ไพเรนทอล",
+    "category": "ธัญพืชนิมบัส",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "ไพเรนทอล",
+    "category": "แพร์สนธยา",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 270,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ไพเรนทอล",
+    "category": "ดอกแม่น้ำรมควัน",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 410,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "แนกซิดีน",
+    "category": "มะเฟืองดอง",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "แนกซิดีน",
+    "category": "ธัญพืชนิมบัส",
+    "rule_type": "RANGE",
+    "value_min": 120,
+    "value_max": 220,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "แนกซิดีน",
+    "category": "แพร์สนธยา",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "แนกซิดีน",
+    "category": "ดอกแม่น้ำรมควัน",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "แนกซิดีน",
+    "category": "เค้กกลิมเมอร์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "วอร์บาเมต",
+    "category": "ธัญพืชนิมบัส",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "วอร์บาเมต",
+    "category": "แพร์สนธยา",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "วอร์บาเมต",
+    "category": "ดอกแม่น้ำรมควัน",
+    "rule_type": "RANGE",
+    "value_min": 130,
+    "value_max": 230,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "วอร์บาเมต",
+    "category": "เค้กกลิมเมอร์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "วอร์บาเมต",
+    "category": "บะหมี่เคลือบ",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "ซินดราลิน",
+    "category": "แพร์สนธยา",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ซินดราลิน",
+    "category": "ดอกแม่น้ำรมควัน",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ซินดราลิน",
+    "category": "เค้กกลิมเมอร์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.7,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "ซินดราลิน",
+    "category": "บะหมี่เคลือบ",
+    "rule_type": "RANGE",
+    "value_min": 50,
+    "value_max": 150,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ซินดราลิน",
+    "category": "เครื่องดื่มสาหร่าย",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "โมเฟโดน",
+    "category": "ดอกแม่น้ำรมควัน",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "โมเฟโดน",
+    "category": "เค้กกลิมเมอร์",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "โมเฟโดน",
+    "category": "บะหมี่เคลือบ",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "โมเฟโดน",
+    "category": "เครื่องดื่มสาหร่าย",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "โมเฟโดน",
+    "category": "ผลจันทร์อบแห้ง",
+    "rule_type": "RANGE",
+    "value_min": 60,
+    "value_max": 160,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "กรดบลอร์บิก",
+    "category": "บะหมี่เคลือบสำหรับใช้ทางการแพทย์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 95,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เซนทานิล",
+    "category": "บะหมี่เคลือบสำหรับใช้ทางการแพทย์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 55,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "เควกซอล",
+    "category": "เครื่องดื่มสาหร่ายสำหรับใช้ทางการแพทย์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.55,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "ฟราเวสแทน",
+    "category": "ปลาแซลมอนหมักสำหรับใช้ทางการแพทย์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 185,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "กลิโวเรต",
+    "category": "ปลาแซลมอนหมักสำหรับใช้ทางการแพทย์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 145,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ไพเรนทอล",
+    "category": "วอยด์ครีมสำหรับใช้ทางการแพทย์",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 105,
+    "unit": "mg/kg"
+  }
+]

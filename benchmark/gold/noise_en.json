@@ -1,0 +1,130 @@
+[
+  {
+    "substance": "Blorbic acid",
+    "category": "Glimmer cakes",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 50,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Frosted noodles",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Spiced kelp drinks",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "Blorbic acid",
+    "category": "Dried moonfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Frosted noodles",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Spiced kelp drinks",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Dried moonfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "Zentanyl",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Spiced kelp drinks",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Dried moonfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 450,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Quexol",
+    "category": "Whipped voidcream",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Dried moonfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Cured zalmon",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 370,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Whipped voidcream",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "Fravestan",
+    "category": "Pickled starfruit",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.7,
+    "unit": "g/kg"
+  }
+]

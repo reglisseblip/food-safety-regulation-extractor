@@ -1,0 +1,450 @@
+[
+  {
+    "substance": "ब्लोर्बिक अम्ल",
+    "category": "झिलमिल केक",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "ब्लोर्बिक अम्ल",
+    "category": "तुषार नूडल्स",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ब्लोर्बिक अम्ल",
+    "category": "मसालेदार केल्प पेय",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.9,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "ब्लोर्बिक अम्ल",
+    "category": "सूखा चंद्रफल",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "ब्लोर्बिक अम्ल",
+    "category": "नमकीन ज़ालमन",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ज़ेंटानिल",
+    "category": "तुषार नूडल्स",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ज़ेंटानिल",
+    "category": "मसालेदार केल्प पेय",
+    "rule_type": "RANGE",
+    "value_min": 60,
+    "value_max": 160,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ज़ेंटानिल",
+    "category": "सूखा चंद्रफल",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "ज़ेंटानिल",
+    "category": "नमकीन ज़ालमन",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ज़ेंटानिल",
+    "category": "फेंटी शून्यक्रीम",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "क्वेक्सोल",
+    "category": "मसालेदार केल्प पेय",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "क्वेक्सोल",
+    "category": "सूखा चंद्रफल",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "क्वेक्सोल",
+    "category": "नमकीन ज़ालमन",
+    "rule_type": "RANGE",
+    "value_min": 70,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "क्वेक्सोल",
+    "category": "फेंटी शून्यक्रीम",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "क्वेक्सोल",
+    "category": "अचारी तारफल",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "फ्रावेस्टान",
+    "category": "सूखा चंद्रफल",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "फ्रावेस्टान",
+    "category": "नमकीन ज़ालमन",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 370,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "फ्रावेस्टान",
+    "category": "फेंटी शून्यक्रीम",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "फ्रावेस्टान",
+    "category": "अचारी तारफल",
+    "rule_type": "RANGE",
+    "value_min": 80,
+    "value_max": 180,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "फ्रावेस्टान",
+    "category": "भुने निंबस अनाज",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "ग्लिवोरेट",
+    "category": "नमकीन ज़ालमन",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 290,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ग्लिवोरेट",
+    "category": "फेंटी शून्यक्रीम",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 430,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ग्लिवोरेट",
+    "category": "अचारी तारफल",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "ग्लिवोरेट",
+    "category": "भुने निंबस अनाज",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "ग्लिवोरेट",
+    "category": "मीठी नाशपाती",
+    "rule_type": "RANGE",
+    "value_min": 90,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "पाइरेंथॉल",
+    "category": "फेंटी शून्यक्रीम",
+    "rule_type": "RANGE",
+    "value_min": 110,
+    "value_max": 210,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "पाइरेंथॉल",
+    "category": "अचारी तारफल",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.9,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "पाइरेंथॉल",
+    "category": "भुने निंबस अनाज",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "पाइरेंथॉल",
+    "category": "मीठी नाशपाती",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 270,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "पाइरेंथॉल",
+    "category": "धुएँदार नदीपुष्प",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 410,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "नैक्सिडीन",
+    "category": "अचारी तारफल",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "नैक्सिडीन",
+    "category": "भुने निंबस अनाज",
+    "rule_type": "RANGE",
+    "value_min": 120,
+    "value_max": 220,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "नैक्सिडीन",
+    "category": "मीठी नाशपाती",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 190,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "नैक्सिडीन",
+    "category": "धुएँदार नदीपुष्प",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "नैक्सिडीन",
+    "category": "झिलमिल केक",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.5,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "वोरबामेट",
+    "category": "भुने निंबस अनाज",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.05,
+    "unit": "%"
+  },
+  {
+    "substance": "वोरबामेट",
+    "category": "मीठी नाशपाती",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 110,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "वोरबामेट",
+    "category": "धुएँदार नदीपुष्प",
+    "rule_type": "RANGE",
+    "value_min": 130,
+    "value_max": 230,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "वोरबामेट",
+    "category": "झिलमिल केक",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 1.1,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "वोरबामेट",
+    "category": "तुषार नूडल्स",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.03,
+    "unit": "%"
+  },
+  {
+    "substance": "सिंद्रालिन",
+    "category": "मीठी नाशपाती",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 530,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "सिंद्रालिन",
+    "category": "धुएँदार नदीपुष्प",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 170,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "सिंद्रालिन",
+    "category": "झिलमिल केक",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.7,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "सिंद्रालिन",
+    "category": "तुषार नूडल्स",
+    "rule_type": "RANGE",
+    "value_min": 50,
+    "value_max": 150,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "सिंद्रालिन",
+    "category": "मसालेदार केल्प पेय",
+    "rule_type": "GMP",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "मोफेडोन",
+    "category": "धुएँदार नदीपुष्प",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 90,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "मोफेडोन",
+    "category": "झिलमिल केक",
+    "rule_type": "PROHIBITED",
+    "value_min": null,
+    "value_max": null,
+    "unit": null
+  },
+  {
+    "substance": "मोफेडोन",
+    "category": "तुषार नूडल्स",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.07,
+    "unit": "%"
+  },
+  {
+    "substance": "मोफेडोन",
+    "category": "मसालेदार केल्प पेय",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 510,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "मोफेडोन",
+    "category": "सूखा चंद्रफल",
+    "rule_type": "RANGE",
+    "value_min": 60,
+    "value_max": 160,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ब्लोर्बिक अम्ल",
+    "category": "चिकित्सा उपयोग हेतु तुषार नूडल्स",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 95,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ज़ेंटानिल",
+    "category": "चिकित्सा उपयोग हेतु तुषार नूडल्स",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 55,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "क्वेक्सोल",
+    "category": "चिकित्सा उपयोग हेतु मसालेदार केल्प पेय",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 0.55,
+    "unit": "g/kg"
+  },
+  {
+    "substance": "फ्रावेस्टान",
+    "category": "चिकित्सा उपयोग हेतु नमकीन ज़ालमन",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 185,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "ग्लिवोरेट",
+    "category": "चिकित्सा उपयोग हेतु नमकीन ज़ालमन",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 145,
+    "unit": "mg/kg"
+  },
+  {
+    "substance": "पाइरेंथॉल",
+    "category": "चिकित्सा उपयोग हेतु फेंटी शून्यक्रीम",
+    "rule_type": "MAX",
+    "value_min": null,
+    "value_max": 105,
+    "unit": "mg/kg"
+  }
+]

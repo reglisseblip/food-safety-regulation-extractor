@@ -1,0 +1,52 @@
+[project]
+name = "agentreg"
+version = "1.0.0"
+description = "Extract food-safety regulations (PDF) into a filterable, citable matrix"
+readme = "README.md"
+authors = [{ name = "cestsiloinlesetoiles" }]
+requires-python = ">=3.11"
+dependencies = [
+    "docling",
+    "langchain>=1,<2",
+    "langchain-anthropic>=1,<2",
+    "langchain-openai>=1,<2",
+    "langgraph>=1,<2",
+    "langgraph-checkpoint-sqlite>=2",
+    # numpy/scipy ne servent qu'au benchmark (appariement hongrois) ; gardés ici pour
+    # qu'un simple `uv sync` suffise à tout lancer (pipeline ET benchmark).
+    "numpy",
+    "openai",
+    "pydantic>=2",
+    "pymupdf",
+    "pymupdf4llm",
+    "rich",
+    "scipy",
+    "textual",
+]
+
+[project.scripts]
+agentreg = "cli.app:main"
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-asyncio",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# Layout: role-based subpackages under src/ (pipeline, orchestration, matrix, cli) plus four
+# top-level modules (schema, llm, prompts, logs). src/ is the import root (package-dir below);
+# the project runs from the clone (uv sync + uv run), never installed into a shared site-packages,
+# so plain top-level names (import schema, from pipeline.parser import ...) are fine.
+[tool.setuptools]
+py-modules = ["schema", "llm", "prompts", "logs"]
+packages = ["cli", "matrix", "orchestration", "pipeline"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"          # les tests `async def` (UI Textual) tournent sans marqueur
